@@ -1,5 +1,5 @@
 # InstaBot
-This bot can help you make comments on instgram giveaways.
+<p align=center>This bot can help you make comments on instgram giveaways.</p>
 
 <p align="center">
 	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/ChristosHadjichristofi/InstaBot?color=red" />
@@ -15,8 +15,14 @@ This bot can help you make comments on instgram giveaways.
 * [ChromeDriver](https://chromedriver.chromium.org/downloads)
 
 ## Installation
-Assuming that Python 3 is installed, you should first install selenium
-```
-pip3 install selenium
-```
-Download chrome driver from the [link](https://chromedriver.chromium.org/downloads) based on your os and the build of the Chrome Browser you're using. Then place it inside the project
+* Assuming that Python 3 is installed, you should first install selenium `pip3 install selenium`
+* Download chrome driver from the [link](https://chromedriver.chromium.org/downloads) based on your os and the build of the Chrome Browser you're using. Then place it inside the project <br>
+* In the `config.py` file set the variables based on your needs
+
+## Future Updates
+Its possible that I will add more features to this tool, like:
+* Set which accounts the giveaway host wants you to follow, so as the bot does it by itself
+* Like the post of the giveaway
+
+## Disclaimer
+This project might get your account banned, so use it wisely
