@@ -1,5 +1,5 @@
 # InstaBot
-<p align=center>This bot can help you make comments on instgram giveaways.</p>
+<p align=center>This bot can help you make comments on instgram giveaways. It performs login, goes to the post that the giveaway is, and starts commenting. The bot posts one comment every 20 - 40 sec.</p>
 
 <p align="center">
 	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/ChristosHadjichristofi/InstaBot?color=red" />
@@ -23,6 +23,7 @@
 Its possible that I will add more features to this tool, like:
 * Set which accounts the giveaway host wants you to follow, so as the bot does it by itself
 * Like the post of the giveaway
+* Log the work
 
 ## Disclaimer
-This project might get your account banned, so use it wisely
+This project might get ***your account banned***, so use it wisely.
